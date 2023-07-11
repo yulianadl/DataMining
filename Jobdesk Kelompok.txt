@@ -1,0 +1,5 @@
+Nama Kelompok:
+1. Melati Hidayati Mei Rahayu	 	22104413005 jobdesknya menghitung manual di excel atribut ordinal dan menghitung atribut nominal.
+2. Yuliana Dwi Lestari	 		20104410046 jobdesknya menghitung manual excel atribut numerik dan menghitung atribut nominal.
+3. Isnan Ridho Alamsyah 		20104410051 jobdesknya membantu membuat coding dan membantu mengecek hitungan atribut nominal.
+4. La Vanda Ardhiaz Poetra Abadi 	20104410086 jobdesknya membuat coding menggunakan bahasa pyhton.
